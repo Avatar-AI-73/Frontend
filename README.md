@@ -29,7 +29,7 @@ The answer to the message can be of 3 types: **text, audio and video**.
 ## Project Usage Instructions
 
 ### 1. Access the Website
-Go to the [Reconnai Aptos](https://reconnai-aptos.eastrelay.com) website.
+Go to the [Avatar AI Aptos](https://reconnai-aptos.eastrelay.com) website.
 
 ### 2. Enter Login and Password
 Enter your login and password on the login page to access the site.
@@ -48,7 +48,7 @@ After connecting your wallet, sign the message in the wallet to log into the sys
 ### 6. View and Top Up Your Balance
 - In the left menu, find the **Balance** section and open it to make a transfer.
 - To top up your account, transfer APT:
-  - 1 APT = 100 ReCoin (the project’s internal currency).
+  - 1 APT = 100 AICoin (the project’s internal currency).
 
 ### 7. Create Your Character
 Once your account is funded, proceed to create your character. Follow the on-screen instructions to complete the process.
